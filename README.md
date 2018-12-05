@@ -8,11 +8,11 @@ With processing we listen to the serial port. If the character we are looking fo
 ## Dependencies
 0. arduino:  https://www.arduino.cc/en/Main/Software
 0. arduino library CapacitiveSensor: https://github.com/PaulStoffregen/CapacitiveSensor
-	Add in arduino IDE sketch->Include Library->Add .ZIP Library...
+	0. Add in arduino IDE sketch->Include Library->Add .ZIP Library...
 0. processing https://github.com/PaulStoffregen/CapacitiveSensor
 0. processing library sound 
-	In processing IDE Tools->Add Tool...->Libraries 
-	Then add Sound by "The Processing Foundation"
+	0. In processing IDE Tools->Add Tool...->Libraries 
+	0. Then add Sound by "The Processing Foundation"
 
 ## Getting started
 Run the Aruino sketch
